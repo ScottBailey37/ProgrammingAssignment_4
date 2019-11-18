@@ -46,7 +46,7 @@ namespace ProgrammingAssignment_4
         }
         
         /// <summary>
-        /// Calculate the power a 5 number.
+        /// Calculate the power of a number.
         /// </summary>
         /// <param name="baseNum">The number to multiply by itself.</param>
         /// <param name="exponent">The number of times to multiply baseNum.</param>
@@ -67,7 +67,7 @@ namespace ProgrammingAssignment_4
         }
 
         /// <summary>
-        /// Prints every element of array[] args.
+        /// Prints every element of array[] parameter args.
         /// </summary>
         /// <param name="basenumbers"></param>
         /// <param name="exponents"></param>
